@@ -1,16 +1,27 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JD3T0DTPWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-JD3T0DTPWQ');
+</script>
   <meta charset="utf-8">
   <title>Luken Vidal</title>
   <meta name="description" content="Nexo de Luken Vidal">
   <meta name="author" content="Luken Vidal and littlelink">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800&display=swap" rel="stylesheet"  >
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton-dark.css">
   <link rel="stylesheet" href="css/brands.css">
   <link rel="icon" type="image/png" href="images/avatar.png">
+  <link rel="stylesheet" href="css/cookiealert.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
   <div class="container">
@@ -52,25 +63,29 @@
 
 
         <h1>Luken Vidal</h1>
-
-        <!-- Short Bio -->
         <p>Si has llegado hasta aquí, es que te interesa contactar conmigo! Estas bienvenido a cotillear mis redes!</p>
-        
-        <!-- Replace # with your profile URL. Delete whatever you don't need & create your own brand styles in css/brands.css -->  
-        <div>
-        <a class="button button-twitter" href="https://twitter.com/lukenvidal_"><img class="icon" src="icons/twitter.svg">Twitter</a> 
-        <a class="button button-instagram" href="https://instagram.com/lukenvidal8"><img class="icon" src="icons/instagram.svg">Instagram</a>
-        <a class="button button-github" href="https://github.com/lukenmondragon"><img class="icon" src="icons/github.svg">Github</a> <br>
-        <a class="button button-twitch" href="https://twitch.tv/lukengazte"><img class="icon" src="icons/twitch.svg">Twitch</a>
-        <a class="button button-linkedin" href="https://www.linkedin.com/in/luken-vidal-echegoyen-143890195"/><img class="icon" src="icons/linkedin.svg">Linkedin</a><br>
-      </div>
+    
+        <a class="button button-twitter" href="https://twitter.com/lukenvidal_" target="_blank"><img class="icon" src="icons/twitter.svg">Twitter</a> <br>
+        <a class="button button-instagram" href="https://instagram.com/lukenvidal8" target="_blank"><img class="icon" src="icons/instagram.svg">Instagram</a> <br>
+        <a class="button button-github" href="https://github.com/lukenmondragon" target="_blank"><img class="icon" src="icons/github.svg">Github</a> <br>
+        <a class="button button-twitch" href="https://twitch.tv/lukengazte" target="_blank"><img class="icon" src="icons/twitch.svg">Twitch</a> <br>
+        <a class="button button-linkedin" href="https://www.linkedin.com/in/luken-vidal-echegoyen-143890195" target="_blank"/><img class="icon" src="icons/linkedin.svg">Linkedin</a><br>
           <br>
+          
         <footer>
-          <p>Inspirado en: <a href="https://github.com/sethcottle/littlelink">littlelink</a>.</p>
+          <p>Inspirado en: <a href="https://github.com/sethcottle/littlelink" target="_blank">littlelink</a>.</p>
         </footer>
           
       </div>
     </div>
   </div>
+  <div class="alert text-center cookiealert" role="alert">
+    <b>Te gustan las cookies?</b> &#x1F36A; Utilizamos las cookies para mejorar la experiencia del usuario. <a href="https://github.com/lukenmondragon/lukenvidal.me/blob/main/cookies.md" style="color:#ffffff;" target="_blank">Aprende más</a>
+
+    <button type="button" class="btn btn-primary btn-sm acceptcookies magia">
+        Aceptar
+    </button>
+  </div>
+  <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>
 </body>
 </html>
