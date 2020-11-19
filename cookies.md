@@ -1,5 +1,5 @@
-#POLÍTICA DE COOKIES
-Una cookie es un fichero que se descarga en el ordenador/smartphone/tablet del usuario al acceder a determinadas páginas web para almacenar y recuperar información sobre la navegación que se efectúa desde dicho equipo. Para conocer más información sobre las cookies, Luken Vidal,  le invita a acceder al siguiente enlace: http://www.iabspain.net/privacidadeninternet/usuario.
+# POLÍTICA DE COOKIES
+Una cookie es un fichero que se descarga en el ordenador/smartphone/tablet del usuario al acceder a determinadas páginas web para almacenar y recuperar información sobre la navegación que se efectúa desde dicho equipo.
 
 Luken Vidal (en adelante, Luken) utiliza en este sitio web la siguiente tipología de cookies:
 
@@ -17,7 +17,7 @@ La recopilación y el tratamiento de información sobre el usuario de un sitio w
 
 La recogida de datos de navegación y la generación de perfiles de interés con técnicas de inferencia analítica permite el uso de esos perfiles para personalizar campañas publicitarias y contenido.
 
-##Adicionalmente los perfiles de interés inferidos pueden ser compartidos con terceros.
+## Adicionalmente los perfiles de interés inferidos pueden ser compartidos con terceros.
 
 **Análisis para la personalización de anuncios**
 La recopilación de información y combinación con información recopilada previamente, para seleccionar y entregar anuncios, y para medir la entrega y la efectividad de dichos anuncios. Esto incluye el uso de información recopilada previamente sobre los intereses de los usuarios para seleccionar anuncios, procesar datos sobre qué publicidades se mostraron, con qué frecuencia se mostraron, cuándo y dónde se mostraron y si tomaron alguna medida relacionada con el anuncio, incluyendo, por ejemplo, hacer clic en un anuncio o hacer una compra.
@@ -28,9 +28,9 @@ La recopilación de información, y la combinación con la información recopila
 **Medición**
 La recopilación de información sobre el uso de contenido por parte del usuario y la combinación con información recopilada anteriormente, utilizada para medir, comprender e informar sobre el uso que hace el usuario del contenido.
 
-*(*) La información obtenida a través de estas cookies, referida al equipo del usuario, podrá ser combinada con sus datos personales sólo si Ud. está registrado en este sitio web.*
+* (*) La información obtenida a través de estas cookies, referida al equipo del usuario, podrá ser combinada con sus datos personales sólo si Ud. está registrado en este sitio web.*
 
-##DESACTIVACIÓN DE COOKIES
+## DESACTIVACIÓN DE COOKIES
 Puede desactivar las cookies analíticas, publicitarias y comportamentales sin que afecte al funcionamiento del sitio web; sin embargo, la información captada por estas cookies sobre el uso de nuestra web y sobre el éxito de los anuncios mostrados en ella permite mejorar nuestros servicios y obtener ingresos que nos permiten ofrecerle de forma gratuita muchos contenidos.
 
 El usuario podrá elegir qué cookies quiere que funcionen en este sitio web mediante:
