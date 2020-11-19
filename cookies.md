@@ -28,25 +28,19 @@ La recopilación de información, y la combinación con la información recopila
 **Medición**
 La recopilación de información sobre el uso de contenido por parte del usuario y la combinación con información recopilada anteriormente, utilizada para medir, comprender e informar sobre el uso que hace el usuario del contenido.
 
-* (*) La información obtenida a través de estas cookies, referida al equipo del usuario, podrá ser combinada con sus datos personales sólo si Ud. está registrado en este sitio web.*
+* La información obtenida a través de estas cookies, referida al equipo del usuario, podrá ser combinada con sus datos personales sólo si Ud. está registrado en este sitio web.*
 
 ## DESACTIVACIÓN DE COOKIES
 Puede desactivar las cookies analíticas, publicitarias y comportamentales sin que afecte al funcionamiento del sitio web; sin embargo, la información captada por estas cookies sobre el uso de nuestra web y sobre el éxito de los anuncios mostrados en ella permite mejorar nuestros servicios y obtener ingresos que nos permiten ofrecerle de forma gratuita muchos contenidos.
 
 El usuario podrá elegir qué cookies quiere que funcionen en este sitio web mediante:
 
-la configuración del navegador; por ejemplo:
-
+La configuración del navegador:
 Chrome, desde http://support.google.com/chrome/bin/answer.py?hl=es&answer=95647
 Explorer, desde http://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9
 Firefox, desde http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we
 Safari, desde http://support.apple.com/kb/ph5042
 
-
-El sistema de gestión de cookies publicitarias y comportamentales de lukenvidal.me que puede configurar aquí ; o
-
-
-otras herramientas de terceros, disponibles on line, que permiten a los usuarios detectar las cookies en cada sitio web que visita y gestionar su desactivación (por ejemplo, Ghostery: https://www.ghostery.com/about-ghostery/privacy-statements/, http://www.ghostery.com/faq.
-
+El sistema de gestión de cookies publicitarias y comportamentales de lukenvidal.me que puede configurar aquí o en otras herramientas de terceros, disponibles on line, que permiten a los usuarios detectar las cookies en cada sitio web que visita y gestionar su desactivación (por ejemplo, Ghostery: https://www.ghostery.com/about-ghostery/privacy-statements/, http://www.ghostery.com/faq.
 
 Si tiene dudas sobre esta política de cookies, puede contactar con el dueño de la página web en luken@lukenvidal.me
